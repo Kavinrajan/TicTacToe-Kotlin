@@ -1,4 +1,4 @@
-## Libraries used in this project
+## Components and Dependencies used in this project
 - [TDD](https://developer.android.com/training/testing/fundamentals.html)
 - [Barista - UI test faster](https://github.com/SchibstedSpain/Barista)
 - [Junit](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html)
