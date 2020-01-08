@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="participant1_hint">Participant 1</string>
+    <string name="participant2_hint">Participant 2</string>
+    <string name="spiel_dialog_title">Start spiel</string>
+    <string name="done">Done</string>
+    <string name="spiel_dialog_empty_name">Player name mustn\'t be empty</string>
+    <string name="spiel_dialog_same_names">Players name mustn\'t be the same</string>
+    <string name="spiel_ende_dialog_headline">Winner is</string>
+</resources>
